@@ -8,6 +8,4 @@ compiler:
   
 # Build steps
 script:
-  - mkdir build
-  - cd build
   - make
