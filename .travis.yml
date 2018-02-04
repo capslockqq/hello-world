@@ -10,3 +10,6 @@ compiler:
 script:
   - sudo apt-get install libxorg-gtest-dev
   - make
+  
+notifications:
+  email: false
