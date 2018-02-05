@@ -8,5 +8,6 @@ int main()
 	cin >> x;
 	cout << x << endl;
 	cout << "sumasdsdnde" << endl;
+	cout << "luls" << endl;
     return 0;
 }
